@@ -4,5 +4,4 @@ class BM25Retriever:
         self.index = self.build_index()
 
     def build_index(self):
-        # your indexing logic here
         pass
